@@ -318,8 +318,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:161px;
-  height:126px;
+  width:153px;
+  height:98px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -327,10 +327,10 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'NanumPen', 'Nanum Pen Script', sans-serif;
+  font-family:'Georgia-Italic', 'Georgia Italic', 'Georgia', sans-serif;
   font-weight:400;
-  font-style:normal;
-  font-size:58px;
+  font-style:italic;
+  font-size:45px;
   color:#000000;
 }
 #u7 {
@@ -338,13 +338,13 @@
   position:absolute;
   left:24px;
   top:27px;
-  width:161px;
-  height:126px;
+  width:153px;
+  height:98px;
   display:flex;
-  font-family:'NanumPen', 'Nanum Pen Script', sans-serif;
+  font-family:'Georgia-Italic', 'Georgia Italic', 'Georgia', sans-serif;
   font-weight:400;
-  font-style:normal;
-  font-size:58px;
+  font-style:italic;
+  font-size:45px;
   color:#000000;
 }
 #u7 .text {
@@ -362,8 +362,8 @@
 #u8 {
   border-width:0px;
   position:absolute;
-  left:548px;
-  top:167px;
+  left:543px;
+  top:185px;
   width:207px;
   height:108px;
 }
@@ -398,8 +398,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:175px;
-  height:66px;
+  width:174px;
+  height:51px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -407,10 +407,10 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'NanumPen', 'Nanum Pen Script', sans-serif;
+  font-family:'Georgia-Italic', 'Georgia Italic', 'Georgia', sans-serif;
   font-weight:400;
-  font-style:normal;
-  font-size:58px;
+  font-style:italic;
+  font-size:45px;
   color:#000000;
 }
 #u9 {
@@ -418,13 +418,13 @@
   position:absolute;
   left:19px;
   top:33px;
-  width:175px;
-  height:66px;
+  width:174px;
+  height:51px;
   display:flex;
-  font-family:'NanumPen', 'Nanum Pen Script', sans-serif;
+  font-family:'Georgia-Italic', 'Georgia Italic', 'Georgia', sans-serif;
   font-weight:400;
-  font-style:normal;
-  font-size:58px;
+  font-style:italic;
+  font-size:45px;
   color:#000000;
 }
 #u9 .text {
